@@ -1,0 +1,7 @@
+2025-01-10 INFO Application started
+2025-01-10 WARNING Disk space low
+2025-01-10 ERROR Unable to connect to database
+2025-01-10 INFO User logged in
+2025-01-10 ERROR Timeout occurred
+2025-01-10 WARNING CPU usage high
+2025-01-11 DEBUG Debugging started
