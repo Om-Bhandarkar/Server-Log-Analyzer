@@ -20,7 +20,7 @@ server_log_analyzer/
 ## ▶️ How to Run the Program
 
 ### 1️⃣ Ensure You Have Python 3 Installed
-Make sure Python 3 is installed on your system. You can check your version by running:
+Make sure Python 3.8 is installed on your system. You can check your version by running:
 ```sh
 python --version
 ```
